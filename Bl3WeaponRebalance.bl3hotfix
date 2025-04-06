@@ -512,7 +512,7 @@ SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Gamepla
 
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TED.DataTable_WeaponBalance_Unique_TED,SM_SpiderMind,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_HYP.DataTable_WeaponBalance_Unique_HYP,SM_Smog,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
+/Game/PatchDLC/Takedown2/Gear/Weapons/DataTable_WeaponBalance_Takedown2.DataTable_WeaponBalance_Unique_HYP,SM_Smog,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SR_Soleki,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
