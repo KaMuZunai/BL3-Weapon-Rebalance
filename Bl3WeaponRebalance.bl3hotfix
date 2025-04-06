@@ -5,13 +5,13 @@
 ### Author: LichtAbzeichen8
 ###
 
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_DAL.DataTable_WeaponBalance_Unique_DAL,SM_9Volt,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
+SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_DAL.DataTable_WeaponBalance_Unique_DAL,SM_NineVolt,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_DAL.DataTable_WeaponBalance_Unique_DAL,PS_AAA,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SR_ASMD,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_COV.DataTable_WeaponBalance_Unique_COV,HW_Agonizer1500,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
+SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_COV.DataTable_WeaponBalance_Unique_COV,HW_Terror,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,AR_Alchemist,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
@@ -141,7 +141,7 @@ SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Gamepla
 
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,PS_Devestator,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,PS_4SUM,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
+SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,PS_Foursum,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SM_Devoted,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
