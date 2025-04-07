@@ -165,7 +165,7 @@ SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Gamepla
 
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_VLA.DataTable_WeaponBalance_Unique_VLA,AR_Faisor,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_HYP.DataTable_WeaponBalance_Unique_HYP,SG_Fearmonger,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
+SparkLevelPatchEntry,(1,2,0,MatchAll),Game/PatchDLC/BloodyHarvest/Gear/_Design/Balance/DataTable_Weapon_BloodyHarvest.DataTable_Weapon_BloodyHarvest,SG_Fearmonger,DamageScale_2_6249E51D41B75899C0DEDD8B5EFE89ED,0,,300.0
 # Etech
 
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_JAK.DataTable_WeaponBalance_Unique_JAK,SG_Fingerbiter,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
