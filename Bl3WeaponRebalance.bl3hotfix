@@ -264,7 +264,7 @@ SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Gamepla
 
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_DAL.DataTable_WeaponBalance_Unique_DAL,AR_Kaos,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Gear/Weapon/DataTable_WeaponBalance_Mayhem2.DataTable_WeaponBalance_Mayhem2,SM_Kaoson,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
+SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Mayhem2/Gear/Weapon/DataTable_WeaponBalance_Mayhem2.DataTable_WeaponBalance_Mayhem2,SM_Kaoson,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_DAL.DataTable_WeaponBalance_Unique_DAL,SR_WorldDestroyer,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
@@ -279,7 +279,7 @@ SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Gamepla
 
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_MAL.DataTable_WeaponBalance_Unique_MAL,SR_Krakatoa,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Gear/Balance/DataTable_Raid1_Weapons.DataTable_Raid1_Weapons,SM_KybsWorth,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,1.0
+SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/PatchDLC/Raid1/Gear/Balance/DataTable_Raid1_Weapons.DataTable_Raid1_Weapons,SM_KybsWorth,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_HYP.DataTable_WeaponBalance_Unique_HYP,SM_L0V3M4CH1N3,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,300.0
 
